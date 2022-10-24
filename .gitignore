@@ -1,0 +1,7 @@
+.db
+.log
+.DS_Store
+
+target/
+bin/
+log/
